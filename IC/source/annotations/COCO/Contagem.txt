@@ -1,0 +1,31 @@
+Contagem de Acordo com o COCO:
+Bicicleta  =  3401   3252 + 149 (train + val)
+Moto       =  3661   3502 + 159
+Onibus     =  4141   3952 + 189
+Caminhão   =  6377   6127 + 250
+Carro      = 12786  12251 + 535
+Pessoa     = 66880
+
+val (<= 20 categorias numa mesma img)
+pessoa    = 2400
+Bicicleta =  108
+carro     =  465
+moto      =  129
+onibus    =  160
+Caminhão  =  218
+
+train (<= 20 categorias numa mesma img)
+pessoa    = 57415
+Bicicleta =  2566
+carro     = 10380
+moto      =  2912
+onibus    =  3331
+Caminhão  =  5251
+
+train (<= 10 categorias numa mesma img)
+pessoa    = 42478
+Bicicleta =  1568
+carro     =  6609
+moto      =  2016
+onibus    =  2162
+Caminhão  =  3513
